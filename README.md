@@ -1,4 +1,4 @@
-Cylon-Deus
+Cylon-Deus.
 „Manifestul și formula Cylon Deus pentru super-AI”
 <!DOCTYPE html>
 <html lang="ro">
